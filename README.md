@@ -33,4 +33,7 @@ Overall, while the declines were measurable, they remained relatively small, sug
 
 ## Visuals
 - **Line Chart**: Aggregated K-pop popularity over time in Korea and globally.
+<br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 - **Bar Chart**: Percentage change in popularity pre- and post-martial law.
