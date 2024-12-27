@@ -1,6 +1,6 @@
 # K-pop Popularity Analysis: Impact of Martial Law
 
-This project investigates the impact of the declaration of martial law in Korea on the Spotify popularity of two leading K-pop groups: **BTS** and **BlackPink**. Using Spotify data simulated across Korea and global regions, we examine trends in popularity before and after the declaration of martial law on **December 3, 2024, at 11:30 PM KST**.
+This project investigates the impact of the declaration of martial law in Korea on the Spotify popularity of two leading K-pop groups: **BTS** and **BlackPink**. Using Spotify data simulated across Korea and global regions, we examine trends in popularity before and after the declaration of martial law on **December 3, 2024, at 11:00 PM KST**.
 
 ## Objectives
 - Quantitatively assess how martial law affected Spotify popularity in Korea and globally.
